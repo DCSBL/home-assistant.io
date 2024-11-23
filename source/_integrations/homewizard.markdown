@@ -49,8 +49,6 @@ You have to enable the local API to allow Home Assistant to communicate with you
 {% configuration_basic %}
 IP address:
     description: "The IP address of your device. You can find it in your router"
-    required: true
-    type: string
 {% endconfiguration_basic %}
 
 ## Sensors
