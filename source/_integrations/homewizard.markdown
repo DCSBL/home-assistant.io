@@ -98,4 +98,4 @@ Cloud communication is restored when the switch is turned on again. Cloud commun
 
 {% include common-tasks/remove_device_service.md %}
 
-After deleting the integration, go to the HomeWizad Energy app and disable the local API if no other integrations are using it.
+After deleting the integration, go to the HomeWizard Energy app and disable the local API if no other integrations are using it.
