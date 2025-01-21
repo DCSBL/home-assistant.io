@@ -134,6 +134,16 @@ It may happen that you can't find your devices or they won't show up in the inte
 - Make sure you have enabled the local API in device settings via the HomeWizard Energy app.
 - Make sure both Home Assistant and the device are on the same network.
 
+### Which button do I need to press to configure the device?
+
+During setup you may be asked to press the button of your device. This is to authenticate the device with Home Assistant.
+- P1 Meter: The white button on the front of the P1 Meter.
+- Battery: The black touch button on the front of the device.
+
+Press this button and press 'continue' within 30 seconds to complete the setup.
+
+The Watermeter and kWh Meter do not require this step.
+
 ## Remove integration
 
 This integration follows standard integration removal.
