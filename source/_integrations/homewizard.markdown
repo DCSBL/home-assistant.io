@@ -27,10 +27,10 @@ Integration for the [HomeWizard Energy](https://www.homewizard.com) platform. It
 
 ## Supported devices
 
-- [Wi-Fi P1 Meter](https://www.homewizard.com/p1-meter): Sensors for power import/export, energy consumption (single or three phases), and information about your smart meter and gas (model: `HWE-P1`).
-- [Wi-Fi Energy Socket](https://www.homewizard.com/energy-socket): Sensors for power import/export and energy consumption, and switches for controlling the outlet (model: `HWE-SKT`).
-- [Wi-Fi Watermeter](https://www.homewizard.com/watermeter): Sensors for active and total water usage (model: `HWE-WTR`).
-- [Wi-Fi kWh Meter](https://www.homewizard.com/kwh-meter): Sensors for power import/export and energy consumption (models: `HWE-KWH1`, `HWE-KWH3`, `SDM230-wifi`, and `SDM630-wifi`.).
+- [P1 Meter](https://www.homewizard.com/p1-meter): Sensors for power import/export, energy consumption (single or three phases), and information about your smart meter and gas (model: `HWE-P1`).
+- [Energy Socket](https://www.homewizard.com/energy-socket): Sensors for power import/export and energy consumption, and switches for controlling the outlet (model: `HWE-SKT`).
+- [Watermeter](https://www.homewizard.com/watermeter): Sensors for active and total water usage (model: `HWE-WTR`).
+- [kWh Meter](https://www.homewizard.com/kwh-meter): Sensors for power import/export and energy consumption (models: `HWE-KWH1`, `HWE-KWH3`, `SDM230-wifi`, and `SDM630-wifi`.).
 
 ## Enable the API
 
