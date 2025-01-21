@@ -140,9 +140,9 @@ During setup, you may be asked to press a button on your device to authenticate 
 - **P1 Meter**: Press the white button on the front of the P1 Meter.  
 - **Plug-In Battery**: Press the black touch button on the front of the device. You will hear a beep.  
 
-{% details "Important: You have 30 seconds to complete this step" %}
+{% note %}
 After pressing the button, you must click 'Continue' within 30 seconds to complete the setup. You may need to press the button again if the setup times out.
-{% enddetails %}
+{% endnote %}
 
 The Water Meter and kWh Meter do not require this step.
 
