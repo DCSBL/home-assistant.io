@@ -142,9 +142,9 @@ During setup, you may be asked to press a button on your device to authenticate 
 
 The Water Meter and kWh Meter do not require this step.
 
-{% note %}
+{% important %}
 After pressing the button, you must select **Continue** within 30 seconds to complete the setup. If the setup times out, you may need to press the button again.
-{% endnote %}
+{% endimportant %}
 
 ## Remove integration
 
