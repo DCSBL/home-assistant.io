@@ -146,7 +146,6 @@ The Water Meter and kWh Meter do not require this step.
 After pressing the button, you must select **Continue** within 30 seconds to complete the setup. If the setup times out, you may need to press the button again.
 {% endnote %}
 
-
 ## Remove integration
 
 This integration follows standard integration removal.
